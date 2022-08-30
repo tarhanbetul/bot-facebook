@@ -11,5 +11,5 @@ Yukarıda bahsettiğim bilgileri almam için paylaşımların html elementleri t
 selenium fonksiyonu ile gerçekleştiriyorum.
 
 URL bazında çıktı olarak oluşturduğum tüm dosyaların adları ilgili URL'nin MD5 ile hash'lenmiş halini içermektedir. Böylelikle MD5 algoritmasının tarih bazlı hashed
-string üretmesi ile oluşan dosya isimlerinin  projenin her yeniden çalışmasında ürettiği çıktılarda isim çakışması olmasının engellemesini sağlıyor.
+string üretmesi ile oluşan dosya isimlerinin  projenin her yeniden çalışmasında ürettiği çıktılarda isim çakışması yaşanmamasını sağlanmaktadır.
 
